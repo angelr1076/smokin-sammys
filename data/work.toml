@@ -1,0 +1,34 @@
+# Section title
+title = "Work"
+
+[[projects]]
+    name = "Smoked Pork Tenderloin"
+    folder = "proj-1"
+
+[[projects]]
+    name = "Smoked Louisana Turkey"
+    folder = "proj-2"
+
+[[projects]]
+    name = "Bacon Wrapped Tenderloin"
+    folder = "proj-3"
+
+[[projects]]
+    name = "Country Brisket"
+    folder = "proj-4"
+
+[[projects]]
+    name = "Rubbed Pastrami"
+    folder = "proj-5"
+
+[[projects]]
+    name = "Tenderloin Delight"
+    folder = "proj-6"
+
+[[projects]]
+    name = "Honey Bacon"
+    folder = "proj-7"
+
+[[projects]]
+    name = "Jewish Spiced Beef"
+    folder = "proj-8"
