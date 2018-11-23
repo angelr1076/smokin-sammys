@@ -43,7 +43,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "I'm a culinary school graduate having worked in restaurants and catering for years. My specialty is smoked meats and a top-secret rub that sells itself."
+		bio = "Proud former Marine and culinary school graduate with years of restaurant and catering experience. My specialty is smoked meats and I have perfected a bbq rub that is absolutely top-secret."
 
 		[[params.about.skills]]
 			name = "Smoked BBQ"
@@ -106,13 +106,13 @@ theme = "hugo-artists-theme"
 
 
 	[params.form]
-		title = "Put your order in!"
+		title = "Contact me and we'll discuss deals"
 		# Form fields
 		name = "Your Name"
 		email = "Your Email"
-		message = "What can I smoke for you?"
+		message = "Please message me with your request and we can discuss pricing"
 		buttonText = "Send"
 
 
 	[params.footer]
-		copyright = "Published under the Unlicense License."
+		copyright = "Smokin' Sammy's."
